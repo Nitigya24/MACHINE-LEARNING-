@@ -8,8 +8,7 @@
 
 Click on the following link to checkout the video presentation and the colab file.
 - [Colab](https://colab.research.google.com/drive/1T5YKNhrtKYlWGJHgK2DXTRzqhuLOAClm?usp=sharing)
-- [Video](https://drive.google.com/file/d/1liBHfhyjyUom-674qqgGQ-zoLx3nbypN/view?usp=sharing)
-
+- [Video](
 
 ---
 
@@ -69,6 +68,3 @@ The recommender system offers personalized recommendations based on the type of 
 
 ---
 
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
