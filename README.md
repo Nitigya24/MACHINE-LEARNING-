@@ -8,7 +8,7 @@
 
 Click on the following link to checkout the video presentation and the colab file.
 - [Colab](https://colab.research.google.com/drive/1t11lRWpT8XY630dh5RXhMKtcEI9SqsqT?usp=sharing)
-- [Video](
+- [Video](https://drive.google.com/file/d/1roK571QjDzWiH7WU3DvQQkk6zOOYztCK/view?usp=sharing)
 
 ---
 
